@@ -1,0 +1,74 @@
+footer{
+    box-shadow: 0 -1px 3px rgb(0 0 0 / 10%), 0 -2px 2px rgb(0 0 0 / 6%), 0 0 2px rgb(0 0 0 / 7%);
+    padding-top: 2.4rem!important;
+    padding-bottom: 2.4rem!important;
+}
+.footer-container{
+    max-width:1440px;
+    display:flex;
+    padding:0 40px;
+    margin: 0 auto;
+ 
+}
+.section-column{
+    width:190px;
+    max-width:190px;
+    margin-right: 50px;
+ 
+}
+.section-column ul{
+    padding: 0;
+    margin:0;
+    line-height: 1.1;
+}
+.section-column h3{
+    font-size: 1.6rem;
+    font-weight:400;
+    margin:0;
+    margin-bottom: 2.4rem!important;
+}
+.section-column li {
+    font-size: 1.2rem;
+    list-style-type: none;
+    color: rgba(0,0,0,.56);
+    padding-top: .8rem!important;
+    padding-bottom: .8rem!important;
+    margin-bottom: .8rem!important;
+    margin-bottom: 8px;
+}
+.section-column li:hover{
+    color: rgba(0,0,0,.87);
+}
+hr{
+    max-width:1440px;
+    border-top: 1px solid rgba(0, 0, 0, 0.1);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+}
+.social-accounts{
+    max-width: 1440px;
+    margin: 20px auto;
+
+}
+.social-accounts ul{
+    display: flex;
+    list-style-type: none;
+  
+}
+.social-accounts li{
+    font-size: 3rem;
+    margin-right: 30px;
+}
+.fa-facebook:hover{
+    color:blue;
+}
+.fa-twitter:hover{
+    color:aqua
+}
+.fa-youtube:hover{
+    color:#FF0000
+}
+
+.social-accounts p {
+    margin-top: 50px;
+    margin-left: 40px;
+}
